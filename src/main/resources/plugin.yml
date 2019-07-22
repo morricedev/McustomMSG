@@ -1,0 +1,5 @@
+name: McustomMsg
+main: me.morrice.MCustomMsg
+version: 1.0
+author: Morrice
+description: Altere a mensagem de entrada e de saida, e adicione mensagem de bem-vindo ao chat em cima da hotbar.

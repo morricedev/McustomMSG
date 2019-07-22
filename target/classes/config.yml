@@ -1,0 +1,14 @@
+#Para alterar a cor, altere apenas os números e letras depois do codigo §
+
+#Exemplo -
+#§c faz a cor vermelha ...
+
+#Para saber todas as letras e numeros visite
+#https://minecraft.tools/en/color-code.php
+
+Config:
+  Entrar: §8§l[§2+§8§l] §f
+  Sair: §8§l[§c-§8§l] §f
+  Mensagem: §8§lEdit essa mensagem na config!
+  ActionBar: §8§lEssa aqui tambem!
+

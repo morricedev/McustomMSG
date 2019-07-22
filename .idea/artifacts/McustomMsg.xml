@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="McustomMsg">
+    <output-path>$PROJECT_DIR$/../server - Copia/plugins</output-path>
+    <root id="archive" name="McustomMsg.jar">
+      <element id="module-output" name="desafio" />
+    </root>
+  </artifact>
+</component>
